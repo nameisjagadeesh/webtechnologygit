@@ -1,0 +1,53 @@
+/* descendent selector*/
+div p{
+    color: blue;
+}
+/* child selector*/
+div> p{
+    color: red;
+}
+
+/* adjascnet sibling selector*/
+div + p{
+    color: chartreuse;
+}
+/* general sibling selector*/
+div ~ p{
+    color: blueviolet;
+}
+.static {
+    position: static;
+    left: 100px;
+}
+.relative{
+    top: 250px;
+    right: 320px;
+    position: relative;
+}
+.absolute{
+    bottom: 0;
+    right: 0;
+    position: absolute;
+}
+.fixed{
+    position: fixed;
+    top: 0;
+    color: darkmagenta;
+    background-color: bisque;
+}
+.sticky{
+    position: sticky;
+    top: 0;
+    background-color:beige ;
+}
+ul{
+    list-style-type: disc circle;
+    color: navy;
+    
+}
+li{
+    padding: 5px;
+    background-color: bisque;
+    margin:0 ;
+}
+
