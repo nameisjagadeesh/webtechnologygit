@@ -1,0 +1,98 @@
+
+
+
+.mobile{
+    position: absolute;
+    top: 130px;
+    left: 300px;
+}
+.git{
+    position: absolute;
+    top: 170px;
+    left: 300px;
+
+}
+.email{
+    position: absolute;
+    top: 210px;
+    left: 300px;
+}
+.objective{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+.skills{
+    position: absolute;
+    top: 250px;
+    right:400px;
+}
+.EducationDetails{
+    position: absolute;
+    top: 400px;
+    left:300px;
+}
+.Address{
+    position: absolute;
+    top: 400px;
+    right:300px;
+}
+.Hobbies{
+    position: absolute;
+    top: 600px;
+    right:460px;
+
+}
+.Project{
+    position: absolute;
+    top: 800px;
+    left:300px;
+}
+.body{
+    
+    border: 2px solid black;
+    padding-top: 1100px;
+    padding-left:100px;
+    padding-right: 100px;
+    margin-left:220px;
+    margin-right: 220px;
+    background-color: darkgrey;
+
+    
+   
+}
+.name{
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image{
+    position: absolute;
+    top:90px;
+    right: 500px;
+}
+.declaration{
+    position: absolute;
+    top: 950px;
+    left: 300px;
+}
+.place{
+    position: absolute;
+    left: 300px;
+    top: 1060px;
+}
+.signutre{
+    position: absolute;
+    right:500px;
+    top: 1060px;
+}
+
+body{
+    background-color: aqua;
+}
+@media screen and (min-width: 720px) {
+    body {
+      background-color:cadetblue;
+    }
+  }

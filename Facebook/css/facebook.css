@@ -1,0 +1,106 @@
+body{
+    background-color: aliceblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    margin-top: 250px;
+    margin-left: 200px;
+
+}
+h1{
+    font-size: 60px;
+    color: #1877f2;
+    font-family:sans-serif ;
+    
+    
+}
+h2{
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 34px;
+    width: 500px;
+
+}
+
+.container{
+    border-radius: 20px;
+    margin-top: -195px;
+    margin-right: 160px;
+    float: right;
+    width: 500px;
+    height: 380px;
+    background-color:white;
+    border-radius: 12px;
+    text-align: center;
+}
+.form{
+    float: right;
+    margin-right: 230px;
+    margin-top: 20px;
+    width: 30%;
+    
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.form input{
+    padding: 20px;
+    width: 225%;
+    background-color:#dfe3ee;
+    border-radius: 10px;
+    
+}
+button{
+   background-color: #1877f2;
+    font-size: x-large;
+    padding: 4px;
+    border-radius: 9px;
+    
+    margin-left: 70px;
+    margin-top: 15px;
+    
+}
+::placeholder{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: large;
+    font-style: italic;
+}
+.sign{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 380px;
+    padding-left: 1px;
+    margin-left: 1%;
+     margin-top: 5px;
+}
+.signin{
+    margin-top: 2px;
+
+}
+.copyright{
+    margin-top: 150px;
+    margin-left: 600px;
+}
+p{
+    background-color: white;
+    margin-top: 15px;
+    color: firebrick;
+    font-size: 20px;   
+}
+
+
+
+.new{
+    color: green;
+    width: 50px;
+    
+}
+.celebrity{
+    margin-top: 200px;
+    margin-left: 750px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkslategray;
+}
